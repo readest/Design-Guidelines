@@ -25,10 +25,15 @@ Interviewed 4 Participants on their e-reader uses, I also scored Reddit for some
 - Could the cross-device sync of Readest be utilized? (Desktop flow is more organizational and Touchscreen flow is for reading)
 - Concepting a hotkey menu for each Book unit on the Library view to make sure Organizing is possible and smooth on all devices
 
+# Information Architecture
+
+<img width="843" height="461" alt="image" src="https://github.com/user-attachments/assets/1aad3003-4a2e-4057-b007-db637c31ffe4" />
+
+
 # To-dos (updating)
 
 - [x] User research (look at people who uses E-readers regularly)
   - [ ] Use cases
-- [ ] Information architecture of Library view
+- [x] Information architecture of Library view
 - [ ] Lo-fi mockups (very important to prototype the nav sidebar and how Groups and Collections function)
 - [ ] MVP Library view
