@@ -1,4 +1,4 @@
-Addressing issue #1577
+Addressing issue [#1577](https://github.com/readest/readest/issues/1577)
 # Overview
 The goal is to develop an interface for categorizing books the library view. The two core systems for organizing books are Groups and Collections. A book can belong to multiple Collections, but only one Group per book.
 
