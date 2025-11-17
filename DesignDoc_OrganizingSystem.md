@@ -13,14 +13,17 @@ Here is the FigJam I use to store research, you can find the Benchmark board in 
 - They display Title and Bookcover seperately, which is particularly helpful since not all documents imported by users have a cover nor they need one.
 
 # User Research (Round One) - Key Takeaways
-Interviewed 4 Participants on their e-reader uses.
+Interviewed 4 Participants on their e-reader uses, I also scored Reddit for some extra infos but it's scarce on there. Please feel free to share your personal experience if you happen to read on your tablet.
 - Touchscreen device users tend to organize their libraries less than Desktop users.
   - Some of them organize on Desktop and read on Tablet/Phone.
   - A majority of them don't have subfolders because they prefer to know everything that is in that folder at first glance.
 - Touchscreen device users (especially the ones on Phones) usually rely on the Recently Read or the Search section to access their Books instead of the Library view.
 - No mention of tags <-- I'm hypothesizing this should be majorly designed for Desktop people (and Tablet people at one point).
 
-
+# Possible Exploration
+- A color-coding system using Groups so they seperate Collections and Books rows on the Navbar (to be prototyped)
+- Could the cross-device sync of Readest be utilized? (Desktop flow is more organizational and Touchscreen flow is for reading)
+- Concepting a hotkey menu for each Book unit on the Library view to make sure Organizing is possible and smooth on all devices
 
 # To-dos (updating)
 
