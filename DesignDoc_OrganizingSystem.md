@@ -20,6 +20,12 @@ Interviewed 4 Participants on their e-reader uses, I also scored Reddit for some
 - Touchscreen device users (especially the ones on Phones) usually rely on the Recently Read or the Search section to access their Books instead of the Library view.
 - No mention of tags <-- I'm hypothesizing this should be majorly designed for Desktop people (and Tablet people at one point).
 
+# Points that could be addressed in a seperate Issues
+- Some features need to be more visible and not hidden in another button (Grid to List, Metadata editor)
+- The default cover template looks confusing for participants (they prefer the Apple Books default covers because they have different colors for each book; one participant said the same grey covers could get very confusing if they have a hundred books without covers)
+- Formating features need to be communicated more efficiently (what is Padding? an average user wouldn't know that. Benchmark Apple Books and Figma for this). Also, remove this feature from Library view, only display it in Reader view.
+
+
 # Possible Exploration
 - A color-coding system using Groups so they seperate Collections and Books rows on the Navbar (to be prototyped)
 - Could the cross-device sync of Readest be utilized? (Desktop flow is more organizational and Touchscreen flow is for reading)
