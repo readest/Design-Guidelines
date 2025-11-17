@@ -27,8 +27,9 @@ Interviewed 4 Participants on their e-reader uses, I also scored Reddit for some
 
 # Information Architecture
 
-<img width="843" height="461" alt="image" src="https://github.com/user-attachments/assets/1aad3003-4a2e-4057-b007-db637c31ffe4" />
+<img width="702" height="493" alt="image" src="https://github.com/user-attachments/assets/95af6a97-c505-42f5-91a1-f29a2414ce53" />
 
+I would argue that we don't need a naming system for Groups (users can just use sub-collections if they need to), Groups can be used as a color-coding system to cluster Collection together on Sidebar.
 
 # To-dos (updating)
 
