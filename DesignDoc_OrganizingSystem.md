@@ -12,9 +12,20 @@ Here is the FigJam I use to store research, you can find the Benchmark board in 
 - Each book unit has a visible toolbar that includes Metadata Editor and Star feature, while you need to long press the cover in Readest to see the Metadata. A few participants completely missed this during my first round of user testing.
 - They display Title and Bookcover seperately, which is particularly helpful since not all documents imported by users have a cover nor they need one.
 
+# User Research (Round One) - Key Takeaways
+Interviewed 4 Participants on their e-reader uses.
+- Touchscreen device users tend to organize their libraries less than Desktop users.
+  - Some of them organize on Desktop and read on Tablet/Phone.
+  - A majority of them don't have subfolders because they prefer to know everything that is in that folder at first glance.
+- Touchscreen device users (especially the ones on Phones) usually rely on the Recently Read or the Search section to access their Books instead of the Library view.
+- No mention of tags <-- I'm hypothesizing this should be majorly designed for Desktop people (and Tablet people at one point).
+
+
+
 # To-dos (updating)
 
 - [x] User research (look at people who uses E-readers regularly)
   - [ ] Use cases
 - [ ] Information architecture of Library view
+- [ ] Lo-fi mockups (very important to prototype the nav sidebar and how Groups and Collections function)
 - [ ] MVP Library view
