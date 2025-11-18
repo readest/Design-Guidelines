@@ -9,28 +9,33 @@ As of now, this is what the Library view looks like:
 <img width="799" height="585" alt="image" src="https://github.com/user-attachments/assets/a5abf222-a327-452c-acbd-dd5947335f3f" />
 
 # Benchmarking
-Here is the FigJam I use to store research, you can find the Benchmark board in thie [FigJam page](https://www.figma.com/board/Z1EGVXwxTG67sIXCL3FXCV/Readest?node-id=22-127). Overall, Apple Books should be benchmarked for UI maturity, but for usability, let's look at **ReadEra**.
-- Each book unit has a visible toolbar that includes Metadata Editor and Star feature, while you need to long press the cover in Readest to see the Metadata. A few participants completely missed this during my first round of user testing.
-- They display Title and Bookcover seperately, which is particularly helpful since not all documents imported by users have a cover nor they need one.
+Here is the FigJam I use to store research, you can find the Benchmark board in thie [FigJam page](https://www.figma.com/board/Z1EGVXwxTG67sIXCL3FXCV/Readest?node-id=22-127). 
 
 # User Research (Round One) - Key Takeaways
 Interviewed 4 Participants on their e-reader uses, I also scored Reddit for some extra infos but it's scarce on there. Please feel free to share your personal experience if you happen to read on your tablet.
 - Touchscreen device users tend to organize their libraries less than Desktop users.
   - Some of them organize on Desktop and read on Tablet/Phone.
   - A majority of them don't have subfolders because they prefer to know everything that is in that folder at first glance.
-- Touchscreen device users (especially the ones on Phones) usually rely on the Recently Read or the Search section to access their Books instead of the Library view.
+- Touchscreen device users (especially the ones on Phones) usually rely on the Currently Reading or the Search section to access their Books instead of the Library view.
 - No mention of tags <-- I'm hypothesizing this should be majorly designed for Desktop people (and Tablet people at one point).
+
+# Milestone Issues to be Addressed
+- [#1010](https://github.com/readest/readest/issues/1010): A tag system is requested
+- [#1667](https://github.com/readest/readest/issues/1667): A shortcut in Library view to easily update progress of the book (see: Goodreads), also could be addressed with a Currently Reading widget
+- [#1355](https://github.com/readest/readest/issues/1355): Sorting by series, could be addressed with nested Collection and/or tags
 
 # Points that could be addressed in seperate Issues
 - Some features need to be more visible and not hidden in another button (Grid to List, Metadata editor)
 - The default cover template looks confusing for participants (they prefer the Apple Books default covers because they have different colors for each book; one participant said the same grey covers could get very confusing if they have a hundred books without covers)
 - Formating features need to be communicated more efficiently (what is Padding? an average user wouldn't know that. Benchmark Apple Books and Figma for this). Also, remove this feature from Library view, only display it in Reader view.
 
-
 # Possible Exploration
 - A color-coding system using Groups so they seperate Collections and Books rows on the Navbar (to be prototyped)
+- Tagging system
+- Different designs for the Library view
 - Could the cross-device sync of Readest be utilized? (Desktop flow is more organizational and Touchscreen flow is for reading)
 - Concepting a hotkey menu for each Book unit on the Library view to make sure Organizing is possible and smooth on all devices
+- **Question**: Should the tags be access from the sidebar?
 
 # Information Architecture
 
@@ -43,5 +48,8 @@ I would argue that we don't need a naming system for Groups (users can just use 
 - [x] User research (look at people who uses E-readers regularly)
   - [ ] Use cases
 - [x] Information architecture of Library view
-- [ ] Lo-fi mockups (very important to prototype the nav sidebar and how Groups and Collections function)
+- [ ] Lo-fi mockups that includes side and Library view to solve the webflow issue
+- [ ] Hi-fi mockup: Colored Grouping system (sidebar, Collection carousels)
+- [ ] Hi-fi mockup: Book card on Library view (both Grid and List)
+- [ ] Hi-fi mockup: Currently Reading widget
 - [ ] MVP Library view
