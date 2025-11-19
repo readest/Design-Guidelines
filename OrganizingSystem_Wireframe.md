@@ -15,8 +15,8 @@ A quick sketch for the Organizing System. UX design always needs to be iterated 
 
 This gif demonstrates the Group feature's clustering function in the Sidebar. It has a few usability issues which will be addressed in the documents below.
 
-<img width="2349" height="1120" alt="Page_2" src="https://github.com/user-attachments/assets/8cdf6a3f-c984-4bfc-8545-bb7c5fc7da2c" />
 <img width="2349" height="1120" alt="Page_1" src="https://github.com/user-attachments/assets/2265b763-10da-4f7f-8602-6b970e6fbac9" />
+<img width="2349" height="1120" alt="Page_2" src="https://github.com/user-attachments/assets/81d08551-0bb4-42f7-8b70-117e109d6a00" />
 
 # Things to look at when giving feedback
    - Has every button/information necessary for Organizing Library behavior been added?
