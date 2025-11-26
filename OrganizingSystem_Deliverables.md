@@ -22,4 +22,11 @@ Here's the view-only Figma link to everything: [link](https://www.figma.com/prot
 
 <img width="1736" height="1076" alt="Frame 76" src="https://github.com/user-attachments/assets/3a72b1cd-34f1-4b74-ad8a-d13115bb78c4" />
 
-Let me know if you need anything, I can't share the Figma Design file unfortunately.
+<img width="1194" height="834" alt="iPad Pro 11_ - 1" src="https://github.com/user-attachments/assets/9420824e-5d49-4b27-a768-3a3ba5781acd" />
+
+<img width="1194" height="834" alt="iPad Pro 11_ - 3" src="https://github.com/user-attachments/assets/d317e21f-a820-4abe-8a39-fae92f873cbb" />
+
+<img width="1194" height="834" alt="iPad Pro 11_ - 4" src="https://github.com/user-attachments/assets/858d341f-b893-4ba3-9abd-f61d59aa6ed3" />
+
+
+This should be everything related to this featue. Let me know if you need anything, I can't share the Figma Design file unfortunately.
